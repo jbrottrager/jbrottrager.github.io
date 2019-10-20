@@ -1,3 +1,5 @@
+### Exemplary Networks
+
 [7.1 Network Based on the 3,000 Most Frequent Unigrams in the Mini-Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Novels)](mini_burrows_3000unigram_ternarise_network_novel_nearest_neighbours_6.html)
 
 
