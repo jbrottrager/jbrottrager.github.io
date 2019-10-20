@@ -3,7 +3,7 @@
 [7.1 Network Based on the 3,000 Most Frequent Unigrams in the Mini-Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Novels)](mini_burrows_3000unigram_ternarise_network_novel_nearest_neighbours_6.html)
 
 
-[7.2 Network Based on the 3,000 Most Frequent Biigrams in the Mini-Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Novels)](mini_burrows_3000bigram_ternarise_network_novel_nearest_neighbours_6.html)
+[7.2 Network Based on the 3,000 Most Frequent Bigrams in the Mini-Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Novels)](mini_burrows_3000bigram_ternarise_network_novel_nearest_neighbours_6.html)
 
 
 [7.3 Network Based on the 3,000 Most Frequent Unigrams in the Mini-Corpus (Normalised, Burrows Delta, 6 Nearest Neighbours, Novels)](mini_burrows_3000unigram_normalise_network_novel_nearest_neighbours_6.html)
@@ -48,11 +48,11 @@
 [7.16 Network Based on the 3,000 Most Frequent Unigrams in the Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Genres](corpus_burrows_3000unigram_none_network_genre_nearest_neighbours_6.html)
 
 
-[9.1 Network Based on the 3,000 Most Frequent Unigrams (No Transformation, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000unigram_none_network_genre_cut_off_5.html)
+[9.1 Network Based on the 3,000 Most Frequent Unigrams in the Mini-Corpus (No Transformation, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000unigram_none_network_genre_cut_off_5.html)
 
 
-[9.2 Network Based on the 3,000 Most Frequent Unigrams (Ternarised, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000unigram_ternarise_network_genre_cut_off_5.html)
+[9.2 Network Based on the 3,000 Most Frequent Unigrams in the Mini-Corpus (Ternarised, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000unigram_ternarise_network_genre_cut_off_5.html)
 
 
-[9.3 Network Based on the 3,000 Most Frequent Bigrams (Ternarised, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000bigram_ternarise_network_genre_cut_off_5.html)
+[9.3 Network Based on the 3,000 Most Frequent Bigrams in the Mini-Corpus (Ternarised, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000bigram_ternarise_network_genre_cut_off_5.html)
 
