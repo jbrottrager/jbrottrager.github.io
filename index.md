@@ -45,7 +45,7 @@
 [7.15 Network Based on the 3,000 Most Frequent Unigrams in the Midi-Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Genres](midi_burrows_3000unigram_none_network_genre_nearest_neighbours_6.html)
 
 
-[7.16 Network Based on the 3,000 Most Frequent Unigrams in the Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Genres](corpus_burrows_3000unigram_none_network_genre_nearest_neighbours_6.html)
+[7.16 Network Based on the 3,000 Most Frequent Unigrams in the Corpus (Ternarised, Burrows Delta, 6 Nearest Neighbours, Genres](corpus_burrows_3000unigram_network_genre_nearest_neighbours_6.html)
 
 
 [9.1 Network Based on the 3,000 Most Frequent Unigrams in the Mini-Corpus (No Transformation, Burrows Delta, 5% Cut-Off, Genres)](mini_burrows_3000unigram_none_network_genre_cut_off_5.html)
