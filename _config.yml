@@ -111,28 +111,31 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:judith.brottrager@tu-darmstadt.de"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JBrottrager"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/jbrottrager.bsky.social
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jbrottrager"
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-3108-8936"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=33UaCbgAAAAJ&hl=de&authuser=1"
 
 # Site Footer
 footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:judith.brottrager@tu-darmstadt.de"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/JBrottrager"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jbrottrager"
+  #links:
+  #  - label: "Email"
+  #    icon: "fas fa-fw fa-envelope-square"
+  #    url: "mailto:judith.brottrager@tu-darmstadt.de"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/JBrottrager"
+  #  - label: "GitHub"
+  #    icon: "fab fa-fw fa-github"
+  #    url: "https://github.com/jbrottrager"
 
 
 # Reading Files
