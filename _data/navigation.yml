@@ -1,0 +1,12 @@
+# main links
+main:
+   - title: "CV"
+     url: /cv/
+   - title: "Publications"
+     url: /publications/
+   - title: "Code"
+     url: https://github.com/jbrottrager
+  # - title: "Projects"
+  #   url: /projects/
+  # - title: "Sitemap"
+  #   url: /sitemap/
