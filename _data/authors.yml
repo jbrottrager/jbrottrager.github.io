@@ -3,7 +3,7 @@
 Judith Brottrager:
   name             : "Judith Brottrager"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "blabla"
+  bio              : 
   location         : "Darmstadt"
   email            :
   links:
