@@ -7,9 +7,9 @@ author_profile: true
 
 #### Book Chapters (peer-reviewed)
 
-Unlocking the Archive: Exploring Literary History through Word Embeddings
+Unlocking the Archive: Exploring Literary History through Word Embeddings  
 *Judith Brottrager*  
-Forthcoming, *University of Gothenburg Press* 
+Forthcoming, *University of Gothenburg Press*
 
 
 #### Journal & Conference Articles (peer-reviewed)
