@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Book chapters  
+### Book Chapters (peer-reviewed)
 
-**Unlocking the Archive: Exploring Literary History through Word Embeddings**  
+Unlocking the Archive: Exploring Literary History through Word Embeddings
 *Judith Brottrager*  
 Forthcoming, *University of Gothenburg Press* 
 
 
-#### Journal & conference articles (peer-reviewed)
+### Journal & Conference Articles (peer-reviewed)
 
 [Is badfiction processed differently by the human brain? An electrophysical study on reading experience](https://doi.org/10.3389/fnhum.2023.1333965)  
 Thomas Weitin, Thomas Fabian, Anastasia Glawion, *Judith Brottrager*, Zsofia Pilz  
@@ -39,23 +39,23 @@ Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat
 *Digital Philology: Evolving Scholarship in Digital Philology 1* (2020) 
 
   
-#### Invited Talks  
+### Invited Talks  
 
-**Unlocking the Archive: Exploring Literary History through Word Embeddings**  
+Unlocking the Archive: Exploring Literary History through Word Embeddings 
 *Judith Brottrager*  
 Flows & Friction: Integrating Mixed Methods for Data-rich Research on Historical Media, University of Gothenburg, 23 May 2024  
 
-**Modeling Canonization: Computational Approaches to Literary History**  
+Modeling Canonization: Computational Approaches to Literary History 
 *Judith Brottrager*  
 Noon Colloquium, Department of German, UC Berkeley, 19 April 2024  
 
-**Von Adaption zu Transformation: Eine quantitative Untersuchung von Charakterverschiebungen in Harry-Potter-Fanfiction**  
+Von Adaption zu Transformation: Eine quantitative Untersuchung von Charakterverschiebungen in Harry-Potter-Fanfiction  
 *Judith Brottrager*  
 Workshop Fanfiction & Aneignung, Forschungszentrum für historische Geisteswissenschaften der Goethe Universität Frankfurt, 14 February 2024  
 
-#### Presentations  
+### Presentations & Talks  
 
-**From Canon to Score: Quantifying, Measuring, and Comparing Canonisation**  
+From Canon to Score: Quantifying, Measuring, and Comparing Canonisation  
 *Judith Brottrager*  
 DH2025, Lisbon (accepted)  
 
@@ -67,11 +67,11 @@ DH2024, Washington, DC
 *Judith Brottrager*, Anastasia Glawion, Katharina Herget, Thomas Weitin  
 DH2023, Graz  
 
-**Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception**  
+Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception  
 *Judith Brottrager*, Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin  
 CCLS2022, Darmstadt  
 
-**Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte**  
+Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte  
 *Judith Brottrager*  
 Poster presentation at the Germanistentag 2022, Paderborn  
 
