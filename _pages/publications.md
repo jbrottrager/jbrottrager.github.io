@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Book Chapters (peer-reviewed)
+#### Book Chapters (peer-reviewed)
 
 Unlocking the Archive: Exploring Literary History through Word Embeddings
 *Judith Brottrager*  
 Forthcoming, *University of Gothenburg Press* 
 
 
-### Journal & Conference Articles (peer-reviewed)
+#### Journal & Conference Articles (peer-reviewed)
 
 [Is badfiction processed differently by the human brain? An electrophysical study on reading experience](https://doi.org/10.3389/fnhum.2023.1333965)  
 Thomas Weitin, Thomas Fabian, Anastasia Glawion, *Judith Brottrager*, Zsofia Pilz  
@@ -39,7 +39,7 @@ Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat
 *Digital Philology: Evolving Scholarship in Digital Philology 1* (2020) 
 
   
-### Invited Talks  
+#### Invited Talks  
 
 Unlocking the Archive: Exploring Literary History through Word Embeddings 
 *Judith Brottrager*  
@@ -53,7 +53,7 @@ Von Adaption zu Transformation: Eine quantitative Untersuchung von Charaktervers
 *Judith Brottrager*  
 Workshop Fanfiction & Aneignung, Forschungszentrum für historische Geisteswissenschaften der Goethe Universität Frankfurt, 14 February 2024  
 
-### Presentations & Talks  
+#### Presentations & Talks  
 
 From Canon to Score: Quantifying, Measuring, and Comparing Canonisation  
 *Judith Brottrager*  
