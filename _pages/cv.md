@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+[Download (PDF)](/assets/CV_Brottrager.pdf)
+
 #### Research positions  
 
 | since 2023      | Research assistant ('Landesstelle', 100%) at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp)  |
