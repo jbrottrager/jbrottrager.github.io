@@ -7,7 +7,7 @@ author_profile: true
 
 #### Research positions  
 
-| Since 2023      | Research assistant ('Landesstelle', 100%) at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp)  |
+| since 2023      | Research assistant ('Landesstelle', 100%) at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp)  |
 | 2024			  | Visiting scholar at McGill University, Montréal, .txtlab (hosted by Andrew Piper) |
 | 2024			  | Visiting scholar at UC Berkeley, Department of German (hosted by Deniz Göktürk) |
 | 2020–2023       | Research assistant (DFG Priority Programme "Computational Literary Studies", 100%) at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp) |
@@ -15,7 +15,7 @@ author_profile: true
 
 #### Education  
 
-| Since 2020      | Doctoral student in German Philology / Computational Literary Studies (TU Darmstadt) |
+| since 2020      | Doctoral student in German Philology / Computational Literary Studies (TU Darmstadt) |
 | 2017–2019       | MA in Linguistic and Literary Computing (TU Darmstadt) |
 | 2013–2017       | BA in English and American Studies (University of Vienna) |
 | 2012–2015       | BA in Comparative Literature (University of Vienna) |
@@ -43,12 +43,12 @@ author_profile: true
 
 #### Service  
 
-| Since 2025  | Early Career Researcher Representative, CHR Board |
-| Since 2024  | Reviewer for *Journal of Computational Studies* |
-| Since 2024  | Reviewer for *ADHO Conferences* |
-| Since 2023  | Reviewer for *Digital Humanities Benelux Journal* |
-| Since 2023  | Member of the program committee for Computational Humanities Research conferences |
-| Since 2023  | Member of DHd / EADH / ADHO |
+| since 2025  | Early Career Researcher Representative, CHR Board |
+| since 2024  | Reviewer for *Journal of Computational Studies* |
+| since 2024  | Reviewer for *ADHO Conferences* |
+| since 2023  | Reviewer for *Digital Humanities Benelux Journal* |
+| since 2023  | Member of the program committee for Computational Humanities Research conferences |
+| since 2023  | Member of DHd / EADH / ADHO |
 
 #### Additional Training  
 
