@@ -22,15 +22,25 @@ thead {
 }
 
 th {
-  padding: 0.5em;
+  padding: 8px;
   font-weight: bold;
   text-align: left;
 }
 
 td {
-  padding: 0.5em;
+  padding: 8px;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
+  text-align: left;
 }
+
+td:first-child {
+    width: 25%;
+}
+
+td:last-child {
+    width: 75%;
+}
+
 
 tr,
 td,
