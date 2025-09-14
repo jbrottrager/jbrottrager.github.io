@@ -42,7 +42,6 @@ Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat
 #### Invited Talks  
 
 Unlocking the Archive: Exploring Literary History through Word Embeddings
-
 *Judith Brottrager*  
 Flows & Friction: Integrating Mixed Methods for Data-rich Research on Historical Media, University of Gothenburg, 23 May 2024  
 
@@ -72,7 +71,7 @@ Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary His
 *Judith Brottrager*, Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin  
 CCLS2022, Darmstadt  
 
-Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte 
+Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte<br>
 *Judith Brottrager*  
 Poster presentation at the Germanistentag 2022, Paderborn  
 
