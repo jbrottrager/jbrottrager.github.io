@@ -41,11 +41,11 @@ Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat
   
 #### Invited Talks  
 
-Unlocking the Archive: Exploring Literary History through Word Embeddings
+Unlocking the Archive: Exploring Literary History through Word Embeddings<br>
 *Judith Brottrager*  
 Flows & Friction: Integrating Mixed Methods for Data-rich Research on Historical Media, University of Gothenburg, 23 May 2024  
 
-Modeling Canonization: Computational Approaches to Literary History
+Modeling Canonization: Computational Approaches to Literary History<br>
 *Judith Brottrager*  
 Noon Colloquium, Department of German, UC Berkeley, 19 April 2024  
 
