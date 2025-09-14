@@ -57,8 +57,7 @@ Workshop Fanfiction & Aneignung, Forschungszentrum für historische Geisteswisse
 
 #### Presentations & Talks  
 
-From Canon to Score: Quantifying, Measuring, and Comparing Canonisation
-  
+From Canon to Score: Quantifying, Measuring, and Comparing Canonisation  
 *Judith Brottrager*  
 DH2025, Lisbon
 
@@ -71,12 +70,10 @@ DH2024, Washington, DC
 DH2023, Graz  
 
 Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception  
-
 *Judith Brottrager*, Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin  
 CCLS2022, Darmstadt  
 
 Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte 
- 
 *Judith Brottrager*  
 Poster presentation at the Germanistentag 2022, Paderborn  
 
