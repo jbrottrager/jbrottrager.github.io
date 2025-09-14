@@ -17,7 +17,7 @@ author_profile: true
 
 #### Education  
 
-| since 2020      | Doctoral student in German Philology / Computational Literary Studies (TU Darmstadt) |
+| 2020-2025       | Doctorate in German Philology / Computational Literary Studies, summa cum laude TU Darmstadt) |
 | 2017–2019       | MA in Linguistic and Literary Computing (TU Darmstadt) |
 | 2013–2017       | BA in English and American Studies (University of Vienna) |
 | 2012–2015       | BA in Comparative Literature (University of Vienna) |
@@ -31,17 +31,16 @@ author_profile: true
 
 #### Teaching  
 
-| Summer 2025  | Discourse Analysis Project (TU Darmstadt) |
-| Summer 2025  | LLMs, GPT and the Humanities (TU Darmstadt) |
-| Summer 2025  | Kanon quergestellt: De- und Rekonstruktionen literarischer Klassiker (TU Darmstadt) |
+| Summer 2025     | Discourse Analysis Project (TU Darmstadt) |
+| Summer 2025     | LLMs, GPT and the Humanities (TU Darmstadt) |
 | Winter 2024/25  | Discourse Analysis Project (TU Darmstadt) |
 | Winter 2024/25  | Embedded Meaning: Word Embeddings in Theory and Practice (TU Darmstadt) |
-| Winter 2024/25  | "Weltliteratur": Literaturklassiker und ihre produktive Rezeption (TU Darmstadt) – *Course evaluation: 1.2* |
+| Winter 2024/25  | "Weltliteratur": Literaturklassiker und ihre produktive Rezeption (TU Darmstadt) – *Course evaluation: 1.2*  |
 | Winter 2023/24  | Grundkurs Literaturwissenschaft I (TU Darmstadt) |
 | Summer 2023  	  | Metadata: Creating, Expanding, and Exploring Literary Datasets (TU Darmstadt) |
 | Summer 2023     | Grundkurs Literaturwissenschaft II (TU Darmstadt) |
 | Winter 2022/23  | Grundkurs Literaturwissenschaft I (TU Darmstadt) |
-| Summer 2022     | From Literature to Data: Metadata Analysis and Literary History (TU Darmstadt) – *Course evaluation: 1.5* |
+| Summer 2022     | From Literature to Data: Metadata Analysis and Literary History (TU Darmstadt) – *Course evaluation: 1.5*  |
 
 #### Service  
 
@@ -59,7 +58,7 @@ author_profile: true
 | 2024  | Make an Impact - Networking and Self-Marketing for Female Scientists (Mentoring Hessen) |
 | 2023  | Konferenzen selbst organisieren (GRADE - Goethe Research Academy for Early Career Researchers) |
 | 2023  | Grundlagen der Wissenschaftskommunikation (Nationales Institut für Wissenschaftskommunikation) |
-| 2023  | Research Funding (Ingenium - Young Researchers at TU Darmstadt) |
 | 2023  | Leading Teams Successfully (Ingenium - Young Researchers at TU Darmstadt) |
-| 2022  | Agile Project Management (Google, Coursera) |
+| 2023  | Research Funding (Ingenium - Young Researchers at TU Darmstadt) |
 | 2022  | Personnel Management for Doctoral Students (Ingenium - Young Researchers at TU Darmstadt) |
+| 2022  | Agile Project Management (Google, Coursera) |

@@ -41,11 +41,13 @@ Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat
   
 #### Invited Talks  
 
-Unlocking the Archive: Exploring Literary History through Word Embeddings 
+Unlocking the Archive: Exploring Literary History through Word Embeddings
+
 *Judith Brottrager*  
 Flows & Friction: Integrating Mixed Methods for Data-rich Research on Historical Media, University of Gothenburg, 23 May 2024  
 
-Modeling Canonization: Computational Approaches to Literary History 
+Modeling Canonization: Computational Approaches to Literary History
+
 *Judith Brottrager*  
 Noon Colloquium, Department of German, UC Berkeley, 19 April 2024  
 
@@ -55,9 +57,10 @@ Workshop Fanfiction & Aneignung, Forschungszentrum für historische Geisteswisse
 
 #### Presentations & Talks  
 
-From Canon to Score: Quantifying, Measuring, and Comparing Canonisation  
+From Canon to Score: Quantifying, Measuring, and Comparing Canonisation
+  
 *Judith Brottrager*  
-DH2025, Lisbon (accepted)  
+DH2025, Lisbon
 
 [Echoes Unveiled: Quantifying Literary Historical Scholarship with Word Embeddings](https://zenodo.org/records/13834936)  
 *Judith Brottrager*  
@@ -68,10 +71,12 @@ DH2024, Washington, DC
 DH2023, Graz  
 
 Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception  
+
 *Judith Brottrager*, Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin  
 CCLS2022, Darmstadt  
 
-Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte  
+Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte 
+ 
 *Judith Brottrager*  
 Poster presentation at the Germanistentag 2022, Paderborn  
 

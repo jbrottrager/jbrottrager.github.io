@@ -4,6 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Hi, I'm Judith Brottrager and I'm a PhD researcher at the TU Darmstadt. I hold bachelor's degrees in Comparative Literature and English and American Studies (University of Vienna) and a master's degree in Linguistic and Literary Computing (TU Darmstadt). As a proud member of the DFG Priority Programme [Computational Literary Studies](https://dfg-spp-cls.github.io/), I'm currently working on my PhD thesis on issues of canonisation in English and German literary history.<br><br>
+Hi, I’m Judith Brottrager, a Postdoc at TU Darmstadt working at the intersection of digital humanities and literary studies. My research focuses on quantitative approaches to literary history, canonisation processes, and cultural analytics, using methods such as text analysis, word embeddings, and network analysis.
+<br><br>
 
 If you’d like to reach out, you can email me at judith.brottrager(at)tu-darmstadt.de<br><br>
