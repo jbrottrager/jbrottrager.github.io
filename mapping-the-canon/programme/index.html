@@ -21,6 +21,7 @@
     }
 
     html { scroll-behavior: smooth; }
+
     body {
       background: var(--bg);
       color: var(--ink);
@@ -38,7 +39,9 @@
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-    .grid-overlay span { border-right: 1px solid rgba(26,31,212,0.06); }
+    .grid-overlay span {
+      border-right: 1px solid rgba(26,31,212,0.06);
+    }
 
     /* ── NAV ── */
     nav {
@@ -68,14 +71,6 @@
       transition: color 0.2s;
     }
     .nav-back:hover { color: var(--blue); }
-    .nav-label {
-      font-family: var(--mono);
-      font-size: 10px;
-      font-weight: 400;
-      letter-spacing: 0.04em;
-      text-transform: uppercase;
-      color: var(--mid);
-    }
 
     /* ── WRAPPER ── */
     .wrapper {
@@ -107,6 +102,7 @@
       letter-spacing: 0.04em;
       text-transform: uppercase;
       color: var(--mid);
+      margin-bottom: 6px;
     }
 
     /* ── PROGRAMME ── */
@@ -157,9 +153,7 @@
       flex-shrink: 0;
       width: 100px;
     }
-    .row-content {
-      flex: 1;
-    }
+    .row-content { flex: 1; }
     .row-title {
       font-family: var(--mono);
       font-weight: 500;
@@ -195,8 +189,8 @@
 
 <nav>
   <div class="inner">
-    <a class="nav-link" href="/mapping-the-canon/">About</a>
-    <a class="nav-link active" href="/mapping-the-canon/programme/">Programme</a>
+    <a class="nav-back" href="/mapping-the-canon/">About</a>
+    <a class="nav-back" href="/mapping-the-canon/programme/">Programme</a>
   </div>
 </nav>
 
@@ -204,7 +198,7 @@
 
   <div class="page-header">
     <h1>Programme</h1>
-    <p>Mapping the Canon &nbsp;·&nbsp; June 18–19, 2026 &nbsp;·&nbsp; TU Darmstadt</p>
+    <p>Mapping the Canon · June 18–19, 2026 · TU Darmstadt</p>
     <p>-- under construction --</p>
   </div>
 
@@ -305,5 +299,6 @@
   </section>
 
 </div>
+
 </body>
 </html>
