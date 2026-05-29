@@ -24,7 +24,7 @@ author_profile: true
 | 2012–2015       | BA in Comparative Literature (University of Vienna) |
 
 
-#### Third-Party Funding, Fellowships and Awards
+#### Third-party funding, fellowships and awards
 
 | 2026  | Funding for conference "Mapping the Canon: Quantitative Approaches to Literary History" (Fritz Thyssen Stiftung ) |
 | 2025  | Hermes research study programme (German National Library, Frankfurt ) |
