@@ -26,8 +26,7 @@ author_profile: true
 
 #### Third-Party Funding, Fellowships and Awards
 
-| 2026  | Funding for conference "Mapping the Canon:
-Quantitative Approaches to Literary History" (Fritz Thyssen Stiftung ) |
+| 2026  | Funding for conference "Mapping the Canon: Quantitative Approaches to Literary History" (Fritz Thyssen Stiftung ) |
 | 2025  | Hermes research study programme (German National Library, Frankfurt ) |
 | 2020  | Award for outstanding Master’s projects in the research area of "Digital Humanities" (TU Darmstadt) |
 | 2017  | CLARIN-D Fellowship (European Summer University, Leipzig) |
