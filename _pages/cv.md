@@ -60,6 +60,6 @@ author_profile: true
 | since 2023  | Member of the program committee for Computational Humanities Research conferences |
 | since 2023  | Member of DHd / EADH / ADHO |
 
-### Events organised
+#### Events organised
 
 | 2026 | International symposium on ["Mapping the Canon: Quantitative Approaches to Literary History"](), 18--19 June 2026 (Darmstadt) |
