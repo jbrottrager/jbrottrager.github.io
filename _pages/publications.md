@@ -11,7 +11,6 @@ author_profile: true
 
 *J. Brottrager* (2026). ["Unlocking the Archive: Exploring Literary History through Word Embeddings"](https://gupea.ub.gu.se/items/f31ae67f-ef28-4acd-ae0f-65d764f3bbe6). Flows & Frictions: Mixed Methods for AI-Driven Research on Historical Media, ed. by Daniel Brodén und Lina Samuelsson, Gothenburg University Press, 115-135.
 
-
 #### Journal & Conference Articles (peer-reviewed)
 
 V. Pöhls, *J. Brottrager*, T. Weitin (forthcoming). "Character Perception and Story Message in Re-reading Contexts. A Case Study on Zweig’s Schachnovelle with High School Students". Scientific Study of Literature.
