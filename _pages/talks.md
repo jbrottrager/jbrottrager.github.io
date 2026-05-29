@@ -46,11 +46,11 @@ Encoded Literary History: A Word Embedding Approach to Literary History
 Poster presentation at CHR2023, Paris, 6-8 December 2023
 
 [Networks at Scale. A Metadata-Based Approach to Detecting Links Between Fanfiction-Communities](https://zenodo.org/records/7961822)  
-*Judith Brottrager*, Anastasia Glawion, Katharina Herget, Thomas Weitin  
+*J. Brottrager*, A. Glawion, K. Herget, T. Weitin  
 DH2023, Graz  
 
 Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception  
-*Judith Brottrager*, Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin  
+*J. Brottrager*, A. Stahl, A. Arslan, U. Brandes, T. Weitin  
 CCLS2022, Darmstadt  
 
 Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte<br>
@@ -66,5 +66,5 @@ DH2022, Tokyo (online)
 DHd2022, Potsdam (online)  
 
 [Relating the Unread: Network Models in Literary History](https://zenodo.org/record/4737134)  
-*Judith Brottrager*, Annina Stahl  
+*J. Brottrager*, A. Stahl  
 Poster presentation at the Annual Meeting of the SPP Computational Literary Studies (online, 2021)  
