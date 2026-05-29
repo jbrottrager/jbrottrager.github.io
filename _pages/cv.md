@@ -23,7 +23,6 @@ author_profile: true
 | 2014            | Erasmus exchange semester at the University of St Andrews |
 | 2012–2015       | BA in Comparative Literature (University of Vienna) |
 
-
 #### Third-party funding, fellowships and awards
 
 | 2026  | Funding for conference "Mapping the Canon: Quantitative Approaches to Literary History" (Fritz Thyssen Stiftung ) |
