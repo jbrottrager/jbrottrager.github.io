@@ -37,8 +37,7 @@ author_profile: true
 | Summer 2026  | Der Schulkanon: Literaturgeschichte und -vermittlung (TU Darmstadt) |
 | Summer 2026  | Grundkurs Literaturwissenschaft II (TU Darmstadt) |
 | Summer 2026  | Discourse Analysis Project (TU Darmstadt) |
-| Winter 2025/26  | Embedded Meaning: Word Embeddings
-in Theory and Practice (TU Darmstadt) |
+| Winter 2025/26  | Embedded Meaning: Word Embeddings in Theory and Practice (TU Darmstadt) |
 | Winter 2025/26  | Grundkurs Literaturwissenschaft I (TU Darmstadt) |
 | Winter 2025/26  | Discourse Analysis Project (TU Darmstadt) |
 | Summer 2025     | LLMs, GPT and the Humanities (TU Darmstadt) |
