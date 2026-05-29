@@ -20,7 +20,7 @@ title                    : #"Judith Brottrager"
 title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Judith Brottrager"
-description              : "Computational Literary Studies | Comparative Literature | English and American Studies"
+description              : "Computational Humanities | Computational Literary Studies | Comparative Literature"
 url                      : "jbrottrager.github.io"
 baseurl                  :
 repository               : 
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Judith Brottrager"
   avatar           : "/assets/images/portrait.jpg"
-  bio              : "Computational Literary Studies, Comparative Literature, English and American Studies"
+  bio              : "Computational Humanities | Computational Literary Studies | Comparative Literature"
   location         : "TU Darmstadt"
   email            :
   links:

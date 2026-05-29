@@ -4,6 +4,8 @@ main:
      url: /cv/
    - title: "Publications"
      url: /publications/
+   - title: "Talks and Presentations"
+     url: /talks/
    - title: "Code"
      url: https://github.com/jbrottrager
   # - title: "Projects"
