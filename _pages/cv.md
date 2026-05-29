@@ -62,5 +62,4 @@ author_profile: true
 
 ### Events organised
 
-| 2026 | International symposium on ["Mapping the Canon:
-Quantitative Approaches to Literary History"](), 18--19 June 2026 (Darmstadt) |
+| 2026 | International symposium on ["Mapping the Canon: Quantitative Approaches to Literary History"](), 18--19 June 2026 (Darmstadt) |
