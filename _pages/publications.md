@@ -14,6 +14,7 @@ author_profile: true
 #### Journal & Conference Articles (peer-reviewed)
 
 V. Pöhls, *J. Brottrager*, T. Weitin (forthcoming). "Character Perception and Story Message in Re-reading Contexts. A Case Study on Zweig’s Schachnovelle with High School Students". Scientific Study of Literature.
+
 *J. Brottrager*, J. Barré, Y. Bizzoni, P. Feldkamp (2025). ["Patterns of Canon: A Multilingual Network Study"](https://doi.org/10.63744/Y0dv4ooACREY). Anthology of Computers and the Humanities 3, 76-94.
 
 T. Weitin, T. Fabian, A. Glawion, *J. Brottrager*, Z. Pilz (2024). ["Is badfiction processed differently by the human brain? An electrophysical study on reading experience"](https://doi.org/10.3389/fnhum.2023.1333965). Frontiers in Human Neuroscience 17.
