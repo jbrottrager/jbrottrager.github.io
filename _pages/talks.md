@@ -66,5 +66,5 @@ DH2022, Tokyo (online)
 DHd2022, Potsdam (online)  
 
 [Relating the Unread: Network Models in Literary History](https://zenodo.org/record/4737134)  
-*J. Brottrager*, A. Stahl  
+*J. Brottrager*, A. Stahl<br>
 Poster presentation at the Annual Meeting of the SPP Computational Literary Studies (online, 2021)  
