@@ -17,7 +17,7 @@ author_profile: true
 
 #### Education  
 
-| 2020-2025       | Doctorate in German Philology / Computational Literary Studies ("*summa cum laude*), TU Darmstadt) |
+| 2020-2025       | Doctorate in German Philology / Computational Literary Studies (*summa cum laude*), TU Darmstadt) |
 | 2017–2019       | MA in Linguistic and Literary Computing (TU Darmstadt) |
 | 2013–2017       | BA in English and American Studies (University of Vienna) |
 | 2014            | Erasmus exchange semester at the University of St Andrews |
