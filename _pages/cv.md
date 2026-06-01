@@ -7,7 +7,7 @@ author_profile: true
 
 [Download (PDF)](/assets/Brottrager_CV_updated_05-26.pdf)
 
-#### Research positions  
+#### Research Positions  
 
 | since 2023      | Research associate ('Landesstelle', 100%) at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp)  |
 | 2024			  | Visiting scholar at McGill University, Montréal, .txtlab (hosted by Andrew Piper) |
@@ -23,7 +23,7 @@ author_profile: true
 | 2014            | Erasmus exchange semester at the University of St Andrews |
 | 2012–2015       | BA in Comparative Literature (University of Vienna) |
 
-#### Third-party funding, fellowships and awards
+#### Third-Party Funding, Fellowships and Awards
 
 | 2026  | Funding for conference "Mapping the Canon: Quantitative Approaches to Literary History" (Fritz Thyssen Stiftung ) |
 | 2025  | Hermes research study programme (German National Library, Frankfurt ) |
@@ -59,6 +59,6 @@ author_profile: true
 | since 2023  | Member of the program committee for Computational Humanities Research conferences |
 | since 2023  | Member of DHd / EADH / ADHO |
 
-#### Events organised
+#### Events Organised
 
 | 2026 | International symposium on ["Mapping the Canon: Quantitative Approaches to Literary History"](), 18--19 June 2026 (Darmstadt) |
