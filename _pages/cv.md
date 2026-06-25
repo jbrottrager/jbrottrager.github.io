@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CV
+title: Judith Brottrager -- CV
 permalink: /cv/
 author_profile: true
 ---
