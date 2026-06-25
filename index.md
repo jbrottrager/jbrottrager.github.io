@@ -1,5 +1,5 @@
 ---
-title: 
+title : Judith Brottrager -- Publications
 layout: single
 author_profile: true
 ---

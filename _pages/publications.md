@@ -1,6 +1,6 @@
 ---
 layout: single
-title : Publications
+title : Judith Brottrager -- Publications
 permalink: /publications/
 author_profile: true
 ---
