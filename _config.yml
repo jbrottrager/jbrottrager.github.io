@@ -112,7 +112,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:judith.brottrager@tu-darmstadt.de"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/jbrottrager.bsky.social"
     - label: "ORCID"
       icon: "fab fa-orcid"
