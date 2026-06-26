@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download (PDF)](/assets/Brottrager_CV_updated_05-26.pdf)
+[Download (PDF)](/assets/Brottrager_CV_updated_06-26.pdf)
 
 #### Research Positions  
 
