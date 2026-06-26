@@ -1,6 +1,6 @@
 ---
 layout: single
-title : Judith Brottrager -- Publications
+title : Publications
 permalink: /publications/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ author_profile: true
 
 #### Journal & Conference Articles (peer-reviewed)
 
-V. Pöhls, *J. Brottrager*, T. Weitin (forthcoming). "Character Perception and Story Message in Re-reading Contexts. A Case Study on Zweig’s Schachnovelle with High School Students". Scientific Study of Literature.
+V. Pöhls, *J. Brottrager*, T. Weitin (2026). ["Story Message and Character Perception in Rereading Contexts. A Case Study on Zweig’s *Schachnovelle* with High School Students"](https://doi.org/10.61645/ssol.204). Scientific Study of Literature 15(1), 97-117.
 
 *J. Brottrager*, J. Barré, Y. Bizzoni, P. Feldkamp (2025). ["Patterns of Canon: A Multilingual Network Study"](https://doi.org/10.63744/Y0dv4ooACREY). Anthology of Computers and the Humanities 3, 76-94.
 

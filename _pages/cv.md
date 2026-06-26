@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Judith Brottrager -- CV
+title: CV
 permalink: /cv/
 author_profile: true
 ---
@@ -52,6 +52,7 @@ author_profile: true
 
 #### Service  
 
+| since 2026  | Elected Gender Equality Officer at the Department of History and Social Sciences
 | since 2025  | Early Career Researcher Representative, CHR Board |
 | since 2024  | Reviewer for *Journal of Computational Studies* |
 | since 2024  | Reviewer for *ADHO Conferences* |
@@ -61,4 +62,4 @@ author_profile: true
 
 #### Events Organised
 
-| 2026 | International symposium on ["Mapping the Canon: Quantitative Approaches to Literary History"](), 18--19 June 2026 (Darmstadt) |
+| 2026 | International symposium on ["Mapping the Canon: Quantitative Approaches to Literary History"](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp), 18--19 June 2026 (Darmstadt) |

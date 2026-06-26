@@ -1,6 +1,6 @@
 ---
 layout: single
-title : Judith Brottrager -- Talks and Presentations
+title : Talks and Presentations
 permalink: /talks/
 author_profile: true
 ---
@@ -32,6 +32,10 @@ Poster presentation at DHd2026, Vienna, 26 February 2026
 Networked Resemblance: Networks Models as Comparative Frameworks
 *J. Brottrager*<br>
 “Comparative Literature Goes Digital” DH2025 Mini-Conference, DH2025, Lisbon, 14 July 2025
+
+Time-Sensitive Networks: Text Similarity and Temporal Progression
+*J. Brottrager*<br>
+“The times they are a-changin’” in Digital Humanities,  Mini-Conference at DH2025, Lisbon, Portugal, 15 July 2025
 
 From Canon to Score: Quantifying, Measuring, and Comparing Canonisation  
 *J. Brottrager*<br>
